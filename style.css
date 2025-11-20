@@ -1529,7 +1529,7 @@ hr.invis1 {
 	padding: 0px 15px 40px 15px;
 	background: #ffffff;
 	text-align: left;
-	margin-top: 40px;
+	/*margin-top: 40px;*/
 }
 
 .post-info p{
@@ -1543,7 +1543,7 @@ hr.invis1 {
 
 .post-info ul{
 	display: block;
-	text-align: center;
+	text-align: right;
 	margin-bottom: 15px;
 }
 .post-info ul li{
